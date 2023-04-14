@@ -7,3 +7,14 @@
 .ms{
     text-align: center;
 }
+.bl{
+    background-color:rgb(112, 231, 231);; 
+    color: aliceblue;
+}
+.list-group-item{
+    align-self: center;
+    width: 500px;
+}
+.ct{
+    text-align: center;
+}
