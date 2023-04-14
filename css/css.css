@@ -1,6 +1,9 @@
 .navbar{
     background-color: rgb(112, 231, 231);
 }
-.nav-link{
+.tc{
     color: aliceblue;
+}
+.ms{
+    text-align: center;
 }
