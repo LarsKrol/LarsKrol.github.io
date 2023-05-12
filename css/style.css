@@ -1,6 +1,15 @@
-.navbar{
-    background-color: rgb(112, 231, 231);
+.navbar {
+    background-color: rgb(104, 95, 95);
 }
-.nav-link{
-    color: aliceblue;
+
+.nav-link {
+    color: white;
+}
+
+.tl {
+    color: white;
+}
+
+body {
+    background-color: rgb(157, 143, 143);
 }

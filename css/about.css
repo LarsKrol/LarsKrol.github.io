@@ -1,0 +1,32 @@
+.navbar {
+    background-color: rgb(104, 95, 95);
+}
+
+.nav-link {
+    color: white;
+}
+
+.ct {
+    padding-top: 60px;
+    text-align: center;
+    margin: auto;
+    color: white;
+}
+
+.circular-image {
+    border-radius: 60%;
+    width: 600px;
+    border: 2px black solid;
+
+}
+
+body {
+    background-color: rgb(157, 143, 143);
+}
+
+.tl {
+    color: white;
+}
+p{
+    font-size: 20px;
+}

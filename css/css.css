@@ -1,20 +1,36 @@
-.navbar{
-    background-color: rgb(112, 231, 231);
+.navbar {
+    background-color: rgb(104, 95, 95);
 }
-.tc{
-    color: aliceblue;
+
+.tc {
+    color: white;
 }
-.ms{
+
+.ms {
     text-align: center;
 }
-.bl{
-    background-color:rgb(112, 231, 231);; 
-    color: aliceblue;
+
+.bl {
+    background-color: rgb(104, 95, 95);
+    color: white;
 }
-.list-group-item{
+
+.list-group-item {
     align-self: center;
     width: 500px;
 }
-.ct{
+
+.ct {
     text-align: center;
+}
+
+body {
+    background-color: rgb(157, 143, 143);
+}
+
+.tl {
+    color: white;
+}
+.lr{
+    background-color: rgb(104, 95, 95);
 }
