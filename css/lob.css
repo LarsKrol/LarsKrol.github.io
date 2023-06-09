@@ -1,0 +1,40 @@
+.navbar {
+    background-color: rgb(104, 95, 95);
+}
+
+.tc {
+    color: white;
+}
+
+.ms {
+    text-align: center;
+}
+
+.bl {
+    background-color: rgb(104, 95, 95);
+    color: white;
+}
+
+
+
+.ct {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(157, 143, 143);
+}
+
+.tl {
+    color: white;
+}
+
+.swt{
+    width: 400px;
+}
+.min{
+    text-align: center;
+}
+.mind{
+    width: 600px;
+}
