@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(234, 245, 250);
+}
+
+.contactBG{
+    width: 1450px;
+    height: 400px;
+}
+.bg-img{
+    background: url(../img/imgContactPagina.webp) center no-repeat;
+    background-size: cover;
+    height: 350px;
+    margin-top: 30px;
+}
+
+.title-contact{
+    margin-left: 120px;
+}
+
+.btn{
+    margin-left: 120px;
+}
+
+.navbar, .start, .contact{
+    background-color: rgb(234, 245, 250);
+}
+
+.info{
+    margin-left: 123px;
+}
+
+.maps{
+    margin-left: 33px;
+}
+
+
+
+.nav-background{
+    background-image: url(/img/imgContactPagina.webp);
+    height: 150px;
+    box-shadow: 0 0 15px 15px rgba(0, 0, 0, 0.407);
+    border-radius: 0 0 5px 5px;
+}
+
+.navbar-font {
+    color: white;
+    font-size: 20px;
+}
+
+

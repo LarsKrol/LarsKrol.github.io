@@ -1,0 +1,27 @@
+.nav-background{
+    background-image: url(/img/imgContactPagina.webp);
+    height: 150px;
+    box-shadow: 0 0 15px 15px rgba(0, 0, 0, 0.407);
+    border-radius: 0 0 5px 5px;
+    margin-bottom: 30px;
+}
+
+.navbar-font {
+    color: white;
+    font-size: 20px;
+}
+
+.bg-img{
+    background: url(../img/imgContactPagina.webp) center no-repeat;
+    background-size: cover;
+    height: 350px;
+    margin-top: 30px;
+}
+
+.acti, .rockstar, .ubisoft{
+    height: 290px;
+}
+
+body{
+    background-color: rgb(234, 245, 250);
+}

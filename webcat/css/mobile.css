@@ -1,0 +1,17 @@
+
+.nav-background{
+background-image: url(/img/navbackground.webp);
+height: 150px;
+box-shadow: 0 0 15px 15px rgba(0, 0, 0, 0.407);
+border-radius: 0 0 5px 5px;
+
+}
+
+.navbar-font {
+   color: white;
+    font-size: 20px;
+    }
+
+body{
+    background-color: rgb(234, 245, 250);
+}

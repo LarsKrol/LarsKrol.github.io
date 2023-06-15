@@ -1,0 +1,76 @@
+body {
+    background-color: rgb(158, 240, 158);
+  }
+  
+  #gameContainer {
+    font-family: "Permanent Marker", cursive;
+    background-color: rgb(50, 160, 50);
+    width: 600px;
+    margin: auto;
+    border-radius: 20px;
+    border: 2px solid black;
+    height: 830px;
+  }
+  
+  #cellContainer {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    width: 225px;
+  }
+  
+  .cell {
+    width: 150px;
+    height: 150px;
+    border: 2px solid black;
+    box-shadow: 0 0 0 2px;
+    font-size: 100px;
+    cursor: pointer;
+    background-color: rgb(97, 172, 97);
+    text-align: center;
+  }
+  
+  .collor1 {
+    background-color: rgb(37, 102, 59);
+  }
+  
+  .board {
+    margin-left: 60px;
+  }
+  
+  .header {
+    font-size: 60px;
+    margin-left: 100px;
+  }
+  
+  .status {
+    margin-left: 230px;
+    font-size: 30px;
+  }
+  
+  .scorex {
+    font-size: 25px;
+  }
+  
+  .scoreo {
+    font-size: 25px;
+  }
+  
+  .restart {
+    background-color: rgb(101, 207, 91);
+    width: 150px;
+    height: 40px;
+  }
+  .reset {
+    background-color: rgb(101, 207, 91);
+    width: 150px;
+    height: 40px;
+    margin-left: 65px;
+  }
+  
+  .scorex,
+.scoreo {
+  margin: 0 10px;
+}
+.score{
+    margin-left: 70px;
+}

@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(173, 235, 173);
+}
+.listing{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    list-style: none;
+    gap: 20px;
+    margin: 20px;
+}
+
+.listing li{
+    border: 1px solid black;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+ul li .cell{
+    
+    height:100%;
+}
+
+.listing li h2{
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    padding: 10px;
+}
+
+.listing .cta{
+    background-color: rgb(16, 158, 16);
+    margin-top: auto;
+    border-top: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+.listing .cta a{
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+.nav{
+    height: 100px;
+    background-color:rgb(121, 206, 121) ;
+    text-align: center;
+    color: white;
+    font-size: 35px;
+    border: solid 2px green;
+}
+
+
+.bt{
+    width: 100px;
+    height: 35px;
+    background-color: green;
+    color: white;
+    border: 2PX solid rgb(8, 153, 8);
+}
+
+
